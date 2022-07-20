@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/OkaforRaph/sunnyside-agency-landing-page-main.git](https://github.com/OkaforRaph/sunnyside-agency-landing-page-main.git)
+- Live Site URL: [https://okaforraph.github.io/sunnyside-agency-landing-page-main/](https://okaforraph.github.io/sunnyside-agency-landing-page-main/)
 
 ## My process
 
